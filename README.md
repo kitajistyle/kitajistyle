@@ -32,6 +32,6 @@ Welcome to my Github!
 ## Used Technology Icon
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,anaconda,react,firebase,aws,supabase,git,github,docker,notion,vscode,&perline=5"></img>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,anaconda,react,ruby,rails,go,firebase,aws,supabase,git,github,docker,notion,vscode,&perline=5"></img>
   </a>
 </p>
