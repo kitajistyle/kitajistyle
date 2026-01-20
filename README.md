@@ -20,14 +20,14 @@
 </p>
 
 <p align="center">
-  <a href="https://qiita.com/Naoki_ganbarimasu">
-    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/posts.svg" alt="Qiita Posts"/>
+  <a href="https://qiita.com/kitajistyle">
+    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/posts.svg" alt="Qiita Posts"/>
   </a>
-  <a href="https://qiita.com/Naoki_ganbarimasu">
-    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/contributions.svg" alt="Qiita Contributions"/>
+  <a href="https://qiita.com/kitajistyle">
+    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/contributions.svg" alt="Qiita Contributions"/>
   </a>
-  <a href="https://qiita.com/Naoki_ganbarimasu">
-    <img src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/followers.svg" alt="Qiita Followers"/>
+  <a href="https://qiita.com/kitajistyle">
+    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/followers.svg" alt="Qiita Followers"/>
   </a>
 </p>
 
@@ -124,7 +124,7 @@
 
 ### 🤝 Let's Connect!
 
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Naoki_ganbarimasu)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kitajistyle)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitajistyle)
 
 </div>
