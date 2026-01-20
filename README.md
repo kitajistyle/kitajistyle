@@ -4,31 +4,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Things;Open+to+Collaboration!)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/kitajistyle">
-    <img src="https://komarev.com/ghpvc/?username=kitajistyle&color=2e9fff&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/kitajistyle">
-    <img src="https://img.shields.io/github/followers/kitajistyle?label=Followers&logo=github&style=for-the-badge&color=2e9fff" alt="Followers" />
-  </a>
-</p>
+<img align="right" src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="280"/>
+
+<a href="https://github.com/kitajistyle">
+  <img src="https://komarev.com/ghpvc/?username=kitajistyle&color=2e9fff&style=for-the-badge" alt="Profile Views" />
+</a>
+<a href="https://github.com/kitajistyle">
+  <img src="https://img.shields.io/github/followers/kitajistyle?label=Followers&logo=github&style=for-the-badge&color=2e9fff" alt="Followers" />
+</a>
 
 ### 🤝 Connect with Me
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kitajistyle)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitajistyle)
 
-<p>
-  <a href="https://qiita.com/kitajistyle">
-    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/posts.svg" alt="Qiita Posts"/>
-  </a>
-  <a href="https://qiita.com/kitajistyle">
-    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/contributions.svg" alt="Qiita Contributions"/>
-  </a>
-  <a href="https://qiita.com/kitajistyle">
-    <img src="https://qiita-badge.apiapi.app/s/kitajistyle/followers.svg" alt="Qiita Followers"/>
-  </a>
-</p>
+<a href="https://qiita.com/kitajistyle"><img src="https://qiita-badge.apiapi.app/s/kitajistyle/posts.svg" alt="Qiita Posts"/></a>
+<a href="https://qiita.com/kitajistyle"><img src="https://qiita-badge.apiapi.app/s/kitajistyle/contributions.svg" alt="Qiita Contributions"/></a>
+<a href="https://qiita.com/kitajistyle"><img src="https://qiita-badge.apiapi.app/s/kitajistyle/followers.svg" alt="Qiita Followers"/></a>
+
+<br clear="all"/>
 
 </div>
 
@@ -69,15 +63,8 @@
         <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF&border_radius=10"/>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27"/>
-      </td>
-      <td align="center">
-        <img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="220"/>
-      </td>
-    </tr>
   </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27"/>
 </div>
 
 <div align="center">
