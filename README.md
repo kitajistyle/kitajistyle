@@ -44,14 +44,6 @@
 
 ---
 
-## 📈 GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/kitajistyle?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&habits=1&followup=1&people=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTokyo)
-
-</div>
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -69,7 +61,9 @@
 
 <div align="center">
 
-[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitajistyle&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naoki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitajistyle&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B27&color=2E9FFF&line=2E9FFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -96,7 +90,7 @@
 
 ---
 
-## 🎯 3D Contribution Graph
+## 🎯 3D Contribution Visualization
 
 <div align="center">
 
@@ -106,7 +100,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
