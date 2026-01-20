@@ -31,7 +31,7 @@
   </a>
 </p>
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A1B27"/>
@@ -44,20 +44,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitajistyle&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitajistyle&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitajistyle&theme=tokyonight" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -90,17 +77,7 @@
 
 ---
 
-## 🎯 3D Contribution Visualization
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
+## 🐍 My Contribution Journey
 
 <div align="center">
 
@@ -112,10 +89,9 @@
 
 </div>
 
-
 ---
 
-## 💭 Daily Dev Quote
+## 💭 Quote of the Day
 
 <div align="center">
 
