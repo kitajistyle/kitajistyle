@@ -52,11 +52,17 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Stats & Trophies
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kitajistyle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 
 </div>
 
