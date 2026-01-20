@@ -36,17 +36,17 @@
 <div align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200">
-    <img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="300" style="max-width: 100%; height: auto;"/>
+    <img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" alt="Coding Cat" width="300" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
   </picture>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 100%; height: auto;"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF&border_radius=10" style="max-width: 100%; height: auto;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitajistyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 48%; height: auto; margin: 5px;"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitajistyle&theme=tokyonight&hide_border=true&background=1A1B27&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF&border_radius=10" style="max-width: 48%; height: auto; margin: 5px;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitajistyle&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27" style="max-width: 100%; height: auto; margin-top: 10px;"/>
 </div>
 
 ---
